@@ -1,0 +1,6 @@
+@WebAppInHollandMTF_HostAddress = http://localhost:5250
+
+GET {{WebAppInHollandMTF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
